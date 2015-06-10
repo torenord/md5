@@ -1,0 +1,6 @@
+#+TITLE: MD5
+
+This is a super slow uncommented toy implementation of the MD5
+message-digest algorithm in Haskell.
+
+Not intended for real use! It's really, really slow.
